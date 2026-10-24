@@ -1,0 +1,6 @@
+{
+  "name": "Waves — Your Music",
+  "description": "Personal music player with playlists, album art extraction, search, liked songs, and offline on-device song storage.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
